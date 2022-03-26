@@ -1,0 +1,7 @@
+query GetCharacters($id: String!, $size: SizeType!) {
+  getCharacters(id: $id, size: $size) {
+    id
+    name
+    image
+  }
+}

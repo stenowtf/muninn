@@ -1,0 +1,692 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Home unchanged 1`] = `
+<div>
+  <div
+    class="relative"
+  >
+    <div
+      class="mt-10 mb-8"
+    >
+      <h2
+        class="text-center text-3xl font-extrabold leading-8 tracking-tight text-gray-900 sm:text-4xl"
+      >
+        heroDescription
+      </h2>
+      <h3
+        class="mx-auto mt-4 max-w-3xl text-center text-xl text-gray-500"
+      >
+        heroInstructions
+      </h3>
+    </div>
+    <div
+      class="grid-col-1 mx-auto grid gap-4 sm:grid-cols-2 lg:max-w-3xl"
+    >
+      <div
+        class="relative flex items-center space-x-3 rounded-lg border border-gray-300 bg-white px-6 py-5 hover:border-gray-400"
+      >
+        <div
+          class="flex-shrink-0"
+        >
+          <span
+            class="inline-flex rounded-lg p-3 ring-4 ring-white bg-gray-50 text-gray-700"
+          >
+            <svg
+              class="h-6 w-6 fill-current stroke-current"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zM262.655 90c-54.497 0-89.255 22.957-116.549 63.758-3.536 5.286-2.353 12.415 2.715 16.258l34.699 26.31c5.205 3.947 12.621 3.008 16.665-2.122 17.864-22.658 30.113-35.797 57.303-35.797 20.429 0 45.698 13.148 45.698 32.958 0 14.976-12.363 22.667-32.534 33.976C247.128 238.528 216 254.941 216 296v4c0 6.627 5.373 12 12 12h56c6.627 0 12-5.373 12-12v-1.333c0-28.462 83.186-29.647 83.186-106.667 0-58.002-60.165-102-116.531-102zM256 338c-25.365 0-46 20.635-46 46 0 25.364 20.635 46 46 46s46-20.636 46-46c0-25.365-20.635-46-46-46z"
+              />
+            </svg>
+          </span>
+        </div>
+        <div
+          class="min-w-0 flex-1"
+        >
+          <a
+            class="focus:outline-none"
+            href="/theme/1"
+          >
+            <span
+              aria-hidden="true"
+              class="absolute inset-0"
+            />
+            <p
+              class="text-sm font-medium text-gray-700"
+            >
+              Game 1
+            </p>
+          </a>
+        </div>
+      </div>
+      <div
+        class="relative flex items-center space-x-3 rounded-lg border border-gray-300 bg-white px-6 py-5 hover:border-gray-400"
+      >
+        <div
+          class="flex-shrink-0"
+        >
+          <span
+            class="inline-flex rounded-lg p-3 ring-4 ring-white bg-gray-50 text-gray-700"
+          >
+            <svg
+              class="h-6 w-6 fill-current stroke-current"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zM262.655 90c-54.497 0-89.255 22.957-116.549 63.758-3.536 5.286-2.353 12.415 2.715 16.258l34.699 26.31c5.205 3.947 12.621 3.008 16.665-2.122 17.864-22.658 30.113-35.797 57.303-35.797 20.429 0 45.698 13.148 45.698 32.958 0 14.976-12.363 22.667-32.534 33.976C247.128 238.528 216 254.941 216 296v4c0 6.627 5.373 12 12 12h56c6.627 0 12-5.373 12-12v-1.333c0-28.462 83.186-29.647 83.186-106.667 0-58.002-60.165-102-116.531-102zM256 338c-25.365 0-46 20.635-46 46 0 25.364 20.635 46 46 46s46-20.636 46-46c0-25.365-20.635-46-46-46z"
+              />
+            </svg>
+          </span>
+        </div>
+        <div
+          class="min-w-0 flex-1"
+        >
+          <a
+            class="focus:outline-none"
+            href="/theme/2"
+          >
+            <span
+              aria-hidden="true"
+              class="absolute inset-0"
+            />
+            <p
+              class="text-sm font-medium text-gray-700"
+            >
+              Game 2
+            </p>
+          </a>
+        </div>
+      </div>
+      <div
+        class="relative flex items-center space-x-3 rounded-lg border border-gray-300 bg-white px-6 py-5 hover:border-gray-400"
+      >
+        <div
+          class="flex-shrink-0"
+        >
+          <span
+            class="inline-flex rounded-lg p-3 ring-4 ring-white bg-gray-50 text-gray-700"
+          >
+            <svg
+              class="h-6 w-6 fill-current stroke-current"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M504 256c0 136.997-111.043 248-248 248S8 392.997 8 256C8 119.083 119.043 8 256 8s248 111.083 248 248zM262.655 90c-54.497 0-89.255 22.957-116.549 63.758-3.536 5.286-2.353 12.415 2.715 16.258l34.699 26.31c5.205 3.947 12.621 3.008 16.665-2.122 17.864-22.658 30.113-35.797 57.303-35.797 20.429 0 45.698 13.148 45.698 32.958 0 14.976-12.363 22.667-32.534 33.976C247.128 238.528 216 254.941 216 296v4c0 6.627 5.373 12 12 12h56c6.627 0 12-5.373 12-12v-1.333c0-28.462 83.186-29.647 83.186-106.667 0-58.002-60.165-102-116.531-102zM256 338c-25.365 0-46 20.635-46 46 0 25.364 20.635 46 46 46s46-20.636 46-46c0-25.365-20.635-46-46-46z"
+              />
+            </svg>
+          </span>
+        </div>
+        <div
+          class="min-w-0 flex-1"
+        >
+          <a
+            class="focus:outline-none"
+            href="/theme/3"
+          >
+            <span
+              aria-hidden="true"
+              class="absolute inset-0"
+            />
+            <p
+              class="text-sm font-medium text-gray-700"
+            >
+              Game 3
+            </p>
+          </a>
+        </div>
+      </div>
+      <div
+        class="relative flex items-center space-x-3 rounded-lg border border-dashed border-gray-300 bg-white px-6 py-5"
+      >
+        <div
+          class="flex-shrink-0"
+        >
+          <span
+            class="inline-flex rounded-lg bg-gray-50 p-3 text-gray-400 ring-4 ring-white"
+          >
+            <svg
+              class="h-6 w-6 fill-current stroke-current"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 24 24"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path
+                d="M6 10c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm12 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm-6 0c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+              />
+            </svg>
+          </span>
+        </div>
+        <div
+          class="min-w-0 flex-1"
+        >
+          <div>
+            <span
+              aria-hidden="true"
+              class="absolute inset-0"
+            />
+            <p
+              class="text-sm font-medium text-gray-400"
+            >
+              moreTheme
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders ThemeById unchanged 1`] = `
+<div>
+  <div
+    class="mx-auto flex max-w-2xl items-center justify-between border-y px-1"
+  >
+    <a
+      class="flex-shrink-0 text-gray-700"
+      href="/"
+    >
+      <svg
+        class="h-5 w-5 fill-current"
+        fill="currentColor"
+        height="1em"
+        stroke="currentColor"
+        stroke-width="0"
+        viewBox="0 0 20 20"
+        width="1em"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          d="M10.707 2.293a1 1 0 00-1.414 0l-7 7a1 1 0 001.414 1.414L4 10.414V17a1 1 0 001 1h2a1 1 0 001-1v-2a1 1 0 011-1h2a1 1 0 011 1v2a1 1 0 001 1h2a1 1 0 001-1v-6.586l.293.293a1 1 0 001.414-1.414l-7-7z"
+        />
+      </svg>
+      <span
+        class="sr-only"
+      >
+        home
+      </span>
+    </a>
+    <div
+      class="flex flex-col items-center"
+    >
+      <div
+        aria-labelledby="headlessui-label-1"
+        class="my-2 flex justify-center space-x-2"
+        id="headlessui-radiogroup-5"
+        role="radiogroup"
+      >
+        <label
+          class="sr-only"
+          id="headlessui-label-1"
+          role="none"
+        >
+          difficulty
+        </label>
+        <div
+          aria-checked="false"
+          id="headlessui-radiogroup-option-2"
+          role="radio"
+          tabindex="-1"
+        >
+          <span
+            class="cursor-pointer rounded px-2.5 py-1.5 text-sm font-medium bg-gray-50"
+          >
+            easy
+          </span>
+        </div>
+        <div
+          aria-checked="true"
+          id="headlessui-radiogroup-option-3"
+          role="radio"
+          tabindex="0"
+        >
+          <span
+            class="cursor-pointer rounded px-2.5 py-1.5 text-sm font-medium bg-gray-50 text-gray-700"
+          >
+            normal
+          </span>
+        </div>
+        <div
+          aria-checked="false"
+          id="headlessui-radiogroup-option-4"
+          role="radio"
+          tabindex="-1"
+        >
+          <span
+            class="cursor-pointer rounded px-2.5 py-1.5 text-sm font-medium bg-gray-50"
+          >
+            hard
+          </span>
+        </div>
+      </div>
+    </div>
+    <div
+      class="pointer-events-none flex items-center justify-center visible"
+    >
+      <svg
+        class="mr-1 -ml-1 h-5 w-5 animate-spin text-gray-700"
+        fill="none"
+        viewBox="0 0 24 24"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <circle
+          class="opacity-25"
+          cx="12"
+          cy="12"
+          r="10"
+          stroke="currentColor"
+          stroke-width="4"
+        />
+        <path
+          class="opacity-75"
+          d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"
+          fill="currentColor"
+        />
+      </svg>
+    </div>
+  </div>
+  <div
+    class="mt-4 flex flex-col items-center justify-center space-y-4"
+  >
+    <div
+      class="relative grid grid-cols-2 gap-4 sm:grid-cols-4"
+    >
+      <div
+        class="perspective-500"
+      >
+        <div
+          class="preserve-3d relative h-48 w-[137px] transition-transform duration-1000"
+        >
+          <button
+            class="backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="questionMark"
+            tabindex="0"
+          >
+            <svg
+              class="h-2/3 w-2/3 bg-gray-200 object-cover object-center"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 384 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"
+              />
+            </svg>
+            <span
+              class="sr-only"
+            >
+              questionMark
+            </span>
+          </button>
+          <button
+            class="flipped backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="character"
+            tabindex="-1"
+          >
+            <img
+              alt="character"
+              class="h-full w-full bg-gray-200 object-cover object-center"
+              src=""
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="perspective-500"
+      >
+        <div
+          class="preserve-3d relative h-48 w-[137px] transition-transform duration-1000"
+        >
+          <button
+            class="backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="questionMark"
+            tabindex="0"
+          >
+            <svg
+              class="h-2/3 w-2/3 bg-gray-200 object-cover object-center"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 384 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"
+              />
+            </svg>
+            <span
+              class="sr-only"
+            >
+              questionMark
+            </span>
+          </button>
+          <button
+            class="flipped backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="character"
+            tabindex="-1"
+          >
+            <img
+              alt="character"
+              class="h-full w-full bg-gray-200 object-cover object-center"
+              src=""
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="perspective-500"
+      >
+        <div
+          class="preserve-3d relative h-48 w-[137px] transition-transform duration-1000"
+        >
+          <button
+            class="backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="questionMark"
+            tabindex="0"
+          >
+            <svg
+              class="h-2/3 w-2/3 bg-gray-200 object-cover object-center"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 384 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"
+              />
+            </svg>
+            <span
+              class="sr-only"
+            >
+              questionMark
+            </span>
+          </button>
+          <button
+            class="flipped backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="character"
+            tabindex="-1"
+          >
+            <img
+              alt="character"
+              class="h-full w-full bg-gray-200 object-cover object-center"
+              src=""
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="perspective-500"
+      >
+        <div
+          class="preserve-3d relative h-48 w-[137px] transition-transform duration-1000"
+        >
+          <button
+            class="backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="questionMark"
+            tabindex="0"
+          >
+            <svg
+              class="h-2/3 w-2/3 bg-gray-200 object-cover object-center"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 384 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"
+              />
+            </svg>
+            <span
+              class="sr-only"
+            >
+              questionMark
+            </span>
+          </button>
+          <button
+            class="flipped backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="character"
+            tabindex="-1"
+          >
+            <img
+              alt="character"
+              class="h-full w-full bg-gray-200 object-cover object-center"
+              src=""
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="perspective-500"
+      >
+        <div
+          class="preserve-3d relative h-48 w-[137px] transition-transform duration-1000"
+        >
+          <button
+            class="backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="questionMark"
+            tabindex="0"
+          >
+            <svg
+              class="h-2/3 w-2/3 bg-gray-200 object-cover object-center"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 384 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"
+              />
+            </svg>
+            <span
+              class="sr-only"
+            >
+              questionMark
+            </span>
+          </button>
+          <button
+            class="flipped backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="character"
+            tabindex="-1"
+          >
+            <img
+              alt="character"
+              class="h-full w-full bg-gray-200 object-cover object-center"
+              src=""
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="perspective-500"
+      >
+        <div
+          class="preserve-3d relative h-48 w-[137px] transition-transform duration-1000"
+        >
+          <button
+            class="backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="questionMark"
+            tabindex="0"
+          >
+            <svg
+              class="h-2/3 w-2/3 bg-gray-200 object-cover object-center"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 384 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"
+              />
+            </svg>
+            <span
+              class="sr-only"
+            >
+              questionMark
+            </span>
+          </button>
+          <button
+            class="flipped backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="character"
+            tabindex="-1"
+          >
+            <img
+              alt="character"
+              class="h-full w-full bg-gray-200 object-cover object-center"
+              src=""
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="perspective-500"
+      >
+        <div
+          class="preserve-3d relative h-48 w-[137px] transition-transform duration-1000"
+        >
+          <button
+            class="backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="questionMark"
+            tabindex="0"
+          >
+            <svg
+              class="h-2/3 w-2/3 bg-gray-200 object-cover object-center"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 384 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"
+              />
+            </svg>
+            <span
+              class="sr-only"
+            >
+              questionMark
+            </span>
+          </button>
+          <button
+            class="flipped backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="character"
+            tabindex="-1"
+          >
+            <img
+              alt="character"
+              class="h-full w-full bg-gray-200 object-cover object-center"
+              src=""
+            />
+          </button>
+        </div>
+      </div>
+      <div
+        class="perspective-500"
+      >
+        <div
+          class="preserve-3d relative h-48 w-[137px] transition-transform duration-1000"
+        >
+          <button
+            class="backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="questionMark"
+            tabindex="0"
+          >
+            <svg
+              class="h-2/3 w-2/3 bg-gray-200 object-cover object-center"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              stroke-width="0"
+              viewBox="0 0 384 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M202.021 0C122.202 0 70.503 32.703 29.914 91.026c-7.363 10.58-5.093 25.086 5.178 32.874l43.138 32.709c10.373 7.865 25.132 6.026 33.253-4.148 25.049-31.381 43.63-49.449 82.757-49.449 30.764 0 68.816 19.799 68.816 49.631 0 22.552-18.617 34.134-48.993 51.164-35.423 19.86-82.299 44.576-82.299 106.405V320c0 13.255 10.745 24 24 24h72.471c13.255 0 24-10.745 24-24v-5.773c0-42.86 125.268-44.645 125.268-160.627C377.504 66.256 286.902 0 202.021 0zM192 373.459c-38.196 0-69.271 31.075-69.271 69.271 0 38.195 31.075 69.27 69.271 69.27s69.271-31.075 69.271-69.271-31.075-69.27-69.271-69.27z"
+              />
+            </svg>
+            <span
+              class="sr-only"
+            >
+              questionMark
+            </span>
+          </button>
+          <button
+            class="flipped backface-hidden absolute inset-0 flex w-full items-center justify-center overflow-hidden rounded-md border-2 border-transparent bg-gray-200"
+            disabled=""
+            name="character"
+            tabindex="-1"
+          >
+            <img
+              alt="character"
+              class="h-full w-full bg-gray-200 object-cover object-center"
+              src=""
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

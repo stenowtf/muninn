@@ -4,7 +4,7 @@
 
 @layer base {
   body {
-    @apply antialiased;
+    @apply min-w-[320px] antialiased;
   }
 
   img,
@@ -32,4 +32,19 @@
 }
 
 @layer utilities {
+  .small-caps {
+    font-variant: small-caps;
+  }
+  .perspective-500 {
+    perspective: 500px;
+  }
+  .preserve-3d {
+    transform-style: preserve-3d;
+  }
+  .flipped {
+    transform: rotateY(180deg);
+  }
+  .backface-hidden {
+    backface-visibility: hidden;
+  }
 }

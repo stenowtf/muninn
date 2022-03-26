@@ -1,0 +1,6 @@
+query GetGameSeries {
+  getGameSeries {
+    id
+    name
+  }
+}

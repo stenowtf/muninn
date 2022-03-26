@@ -5,4 +5,4 @@
 
 npm run lint
 npm run tsc-ci
-# npm run test-ci
+npm run test-ci

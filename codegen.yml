@@ -1,0 +1,12 @@
+schema: http://localhost:4242/api/graphql
+documents: "./src/graphql/**/*.graphql"
+generates:
+  ./src/graphql/types.ts:
+    plugins:
+      - typescript
+      - typescript-operations
+      - typescript-graphql-request
+hooks:
+  afterOneFileWrite:
+    - prettier --write
+    - eslint --fix
